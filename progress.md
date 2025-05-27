@@ -20,4 +20,7 @@ So what we have done so far (from memory)
 14. create a testroute in index & send back `"Hello World"`
 15. create a new folder in src > controllers > dashboardControllers.ts
 16. export a func called dashboard metrics using express
-17.
+17. Added the dasboardController route to index through `dashboardRoutes`
+18. create <something?> in the api.ts file in client folder -> but i dont understand shit.
+19. ^key takeaway: **Use "?" to make any field in the database as optional.**
+20.
